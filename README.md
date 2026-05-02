@@ -6,13 +6,14 @@
 
 ###
 
-<h2 align="left">Sobre Mí</h2>
+## Sobre Mí
 
 ###
 
-<p align="left">📚 Estudiante de Licenciatura en Sistemas en la Universidad Nacional de Lanús<br>💻 Experiencia practica en proyectos académicos utilizando Java con el framework de Spring Boot, MySQL y PostgresSQL como motor de base de datos y arquitectura MVC</p>
+- 📚 Estudiante de Licenciatura en Sistemas en la Universidad Nacional de Lanús
+- 💻 Experiencia practica en proyectos académicos utilizando Java con el framework de Spring Boot, MySQL y PostgresSQL como motor de base de datos y arquitectura MVC
 
-###
+## 🛠️ Tecnologías y herramientas
 
 <h2 align="left"></h2>
 
@@ -56,7 +57,7 @@
 
 ###
 
-<h2 align="left">Mis Redes</h2>
+## Mis Redes
 
 ###
 
