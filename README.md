@@ -6,7 +6,7 @@
 
 ###
 
-## Sobre Mí
+## 👩‍💻 Sobre Mí
 
 ###
 
@@ -57,7 +57,7 @@
 
 ###
 
-## Mis Redes
+## 💬 Mis Redes
 
 ###
 
